@@ -1,0 +1,14 @@
+/Users/admin/Projects/proga 3 sem 2/bin/Debug/net7.0/proga 3 sem 2
+/Users/admin/Projects/proga 3 sem 2/bin/Debug/net7.0/proga 3 sem 2.deps.json
+/Users/admin/Projects/proga 3 sem 2/bin/Debug/net7.0/proga 3 sem 2.runtimeconfig.json
+/Users/admin/Projects/proga 3 sem 2/bin/Debug/net7.0/proga 3 sem 2.dll
+/Users/admin/Projects/proga 3 sem 2/bin/Debug/net7.0/proga 3 sem 2.pdb
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/proga 3 sem 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/proga 3 sem 2.AssemblyInfoInputs.cache
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/proga 3 sem 2.AssemblyInfo.cs
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/proga 3 sem 2.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/proga 3 sem 2.dll
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/refint/proga 3 sem 2.dll
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/proga 3 sem 2.pdb
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/proga 3 sem 2.genruntimeconfig.cache
+/Users/admin/Projects/proga 3 sem 2/obj/Debug/net7.0/ref/proga 3 sem 2.dll

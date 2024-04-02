@@ -1,0 +1,14 @@
+/Users/admin/Projects/task_2/bin/Debug/net7.0/task_2
+/Users/admin/Projects/task_2/bin/Debug/net7.0/task_2.deps.json
+/Users/admin/Projects/task_2/bin/Debug/net7.0/task_2.runtimeconfig.json
+/Users/admin/Projects/task_2/bin/Debug/net7.0/task_2.dll
+/Users/admin/Projects/task_2/bin/Debug/net7.0/task_2.pdb
+/Users/admin/Projects/task_2/obj/Debug/net7.0/task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/task_2/obj/Debug/net7.0/task_2.AssemblyInfoInputs.cache
+/Users/admin/Projects/task_2/obj/Debug/net7.0/task_2.AssemblyInfo.cs
+/Users/admin/Projects/task_2/obj/Debug/net7.0/task_2.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/task_2/obj/Debug/net7.0/task_2.dll
+/Users/admin/Projects/task_2/obj/Debug/net7.0/refint/task_2.dll
+/Users/admin/Projects/task_2/obj/Debug/net7.0/task_2.pdb
+/Users/admin/Projects/task_2/obj/Debug/net7.0/task_2.genruntimeconfig.cache
+/Users/admin/Projects/task_2/obj/Debug/net7.0/ref/task_2.dll

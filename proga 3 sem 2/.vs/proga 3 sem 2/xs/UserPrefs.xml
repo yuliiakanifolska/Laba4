@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{22E6852E-5337-4E3C-856E-3D5E458705E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Program.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Program.cs/Program.cs">
+    <Files>
+      <File FileName="../Program.cs/Program.cs" Line="30" Column="2" />
+      <File FileName="TextFile.cs" Line="9" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="proga 3 sem 2" expanded="True">
+            <Node name="Program.cs" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.proga_2203_220sem_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.task__2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
